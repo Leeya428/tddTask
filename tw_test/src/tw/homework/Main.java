@@ -6,7 +6,6 @@ public class Main {
 
         NumberGenerator game = new NumberGenerator();
         game.play();
-        game.play();
         
         
     }
